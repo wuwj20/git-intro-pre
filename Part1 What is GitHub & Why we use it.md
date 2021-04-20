@@ -6,7 +6,7 @@ To understand exactly what GitHub is, we need to know two connected principles :
 
 Version control is a system that helps to track and manage changes made to a file or a set of files. It helps developers track and manage changes to a software project’s code. All of these changes are then tracked and can be reverted if need be. To summarize, version control takes away the risks and the fear of making too many mistakes. Instead, it provides the freedom to collaborate and develop without too much worry.
 
-### What is GIt?
+### What is Git?
 
 Git is a specific open-source version control system created by Linus Torvalds in 2005.
 
